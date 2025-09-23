@@ -5,15 +5,15 @@
 
 
 ### From 8 AM to 8 PM EST:
-- 0  - 30 min: $200
-- 30 - 60 min: $250
+- 0  - 30 min: $100
+- 30 - 60 min: $150
 
 
 - Also please try to book your call for complete hour means like 9,10,11,12 rather then 9:30 , 10:30 . In case of non complete hour 30 min charges would be extra.
 
 # Loop Calls
-- Analyst - Flat 800 for 7 to 5 EST (strats roles + 150)
-- Associate - Flat 1000 for 7 to 5 EST
+- Analyst - Flat 500 for 7 to 5 EST (for strats roles + 100)
+- Associate - Flat 650 for 7 to 5 EST
 
 ---
  
